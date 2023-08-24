@@ -67,7 +67,7 @@ h3 {
 .links {
     position: fixed;
     bottom: 7vh;
-    right: calc(50% - 250px)
+    right: calc(50% - 248px)
 }
 
 .links a {
