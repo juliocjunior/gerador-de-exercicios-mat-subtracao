@@ -7,7 +7,7 @@ function getRandomNumber(min, max) {
     function generateExercise() {
         const num1 = getRandomNumber(1, 99);
         const num2 = getRandomNumber(1, 99);
-        const operator = ['+', '*', '-', '/'][getRandomNumber(0, 3)];
+        const operator = ['+', '*', '-', '/'][getRandomNumber(2, 2)];
     
         let question;
         let answer;
